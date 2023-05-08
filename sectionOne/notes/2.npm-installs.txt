@@ -1,0 +1,19 @@
+type 
+npm install in the terminal (being inside the folder in which we are working)
+to get a package.json and be able to install packages
+    then we install a terminal that will allow us to keep the js file updated according to the changes in ts file
+    npm install --save-dev lite-server
+
+in the package.json
+change:
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+to:
+    "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+ 
+then type npm start in the terminal to keep the server going and be able to run the code 
+in localhost
