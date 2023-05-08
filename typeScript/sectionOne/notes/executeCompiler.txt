@@ -1,0 +1,7 @@
+For executing the ts compiler that will create a js file from the ts file
+
+From the terminal :
+-it is needed to access to the folder in which the ts file is located
+-type -> tsc <name of the TS file> *enter*
+This will compile the ts code and create a new js file with the same name.
+with the TS code compiled into vanilla JS

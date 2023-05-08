@@ -1,0 +1,3 @@
+It's important to have the:
+<script src="using-ts.js" defer></script>
+line of code inside the head of the html pointing to the js file, as the browsers can't run TS

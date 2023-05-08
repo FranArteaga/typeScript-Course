@@ -1,0 +1,5 @@
+typescript is a compiler that runs over the code and compiles the typescript code to javascript
+
+It adds features to the Js and gives the opportunity to catch errors during development
+
+ 
